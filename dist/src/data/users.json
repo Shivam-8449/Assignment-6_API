@@ -1,0 +1,10 @@
+[{ "id": 1, "firstName": "Nilesh", "middleName": "", "lastName": "Kumar", "email": "nilesh.kumar@sourcefuse.com", "phone": "+916394716607", "role": "SUPERADMIN", "address": "Balamau, Uttar Pradesh" },
+    { "id": 2, "firstName": "Ajay", "middleName": "", "lastName": "Prajapati", "email": "ajay.prajapati@sourcefuse.com", "phone": "+917394716607", "role": "ADMIN", "address": "Lucknow, Uttar Pradesh" },
+    { "id": 3, "firstName": "Ayush", "middleName": "", "lastName": "Shankhwar", "email": "ayush.shankhwar@gmail.com", "phone": "+917394716607", "role": "SUBSCRIBER", "address": "Shahjahanpur, Uttar Pradesh" },
+    { "id": 4, "firstName": "Akash", "middleName": "", "lastName": "Pal", "email": "akash.pal@gmail.com", "phone": "+917394716607", "role": "SUBSCRIBER", "address": "Lucknow, Uttar Pradesh" },
+    { "id": 5, "firstName": "Dishant", "middleName": "", "lastName": "Kannaujiya", "email": "dishant.kannaujiya@gmail.com", "phone": "+917394716607", "role": "SUBSCRIBER", "address": "Lucknow, Uttar Pradesh" },
+    { "id": 6, "firstName": "Saurabh", "middleName": "", "lastName": "Kumar", "email": "saurabh.kumar@gmail.com", "phone": "+917394716607", "role": "SUBSCRIBER", "address": "Lucknow, Uttar Pradesh" },
+    { "id": 7, "firstName": "Shubham", "middleName": "", "lastName": "Srivastava", "email": "shubham.srivastava@gmail.com", "phone": "+917394716607", "role": "SUBSCRIBER", "address": "Lucknow, Uttar Pradesh" },
+    { "id": 8, "firstName": "Vikash", "middleName": "", "lastName": "Kumar", "email": "vikash.kumar@gmail.com", "phone": "+917253058346", "role": "SUBSCRIBER", "address": "Amroha, Uttar Pradesh" },
+    { "id": 9, "firstName": "Sanjay", "middleName": "", "lastName": "Bharti", "email": "sanjay.bharti@gmail.com", "phone": "+919616984252", "role": "SUBSCRIBER", "address": "Gonda, Uttar Pradesh" }
+]
